@@ -1,0 +1,1 @@
+﻿Smilie from http://commons.wikimedia.org/wiki/User:Kotakkasut
