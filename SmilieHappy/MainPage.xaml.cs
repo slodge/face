@@ -35,7 +35,7 @@ namespace SmilieHappy
         {
             _smilieWriteableBitmap = LoadWriteable("Images/Smilie1.png");
             _unsmilieWriteableBitmap = LoadWriteable("Images/UnSmilie1.png");
-            _sampleBitmap = LoadWriteable("Images/sample.jpg");
+            _sampleBitmap = LoadWriteable("Images/shezammsample.jpg");
             SelectedImage.Source = _smilieWriteableBitmap;
         }
 

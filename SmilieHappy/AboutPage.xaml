@@ -32,11 +32,11 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Image x:Name="SelectedImage"  Height="400" Width="400" Opacity="0.33"></Image>
+            <Image x:Name="SelectedImage"  Height="456" Width="456" Source="Images/Smilie1.png" Opacity="0.33"></Image>
             <ScrollViewer>
                 <StackPanel>
                     <TextBlock TextWrapping="Wrap" Margin="12" Style="{StaticResource PhoneTextTitle2Style}">About</TextBlock>
-                    <TextBlock TextWrapping="Wrap" Margin="12">:) or :( is brought to you by</TextBlock>
+                    <TextBlock TextWrapping="Wrap" Margin="12">;) or ;( is brought to you by</TextBlock>
                     <HyperlinkButton Margin="12" NavigateUri="/ext.xaml?http://www.cirrious.com" Content="cirrious.com" />
                     <TextBlock TextWrapping="Wrap" Margin="12">The face detection algorithm is provided by the excellent web service:</TextBlock>
                     <HyperlinkButton Margin="12" NavigateUri="/ext.xaml?http://www.face.com" Content="face.com" />

@@ -33,7 +33,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Image x:Name="SelectedImage" Height="400" Width="400" Opacity="0.33"></Image>
+            <Image x:Name="SelectedImage" Height="456" Width="456" Opacity="0.33"></Image>
             <StackPanel Margin="12,36,12,12" x:Name="IntroPanel" VerticalAlignment="Top">
                 <TextBlock TextWrapping="Wrap" Margin="12">
                     You txt, therefore you are?

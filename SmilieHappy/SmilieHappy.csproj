@@ -139,6 +139,7 @@
     <Resource Include="Toolkit.Content\ApplicationBar.Select.png" />
     <Resource Include="Images\poweredByFace.png" />
     <Content Include="Images\ReadMe.txt" />
+    <Content Include="Images\shezammsample.jpg" />
     <Content Include="Images\Smilie1.png" />
     <Content Include="Images\UnSmilie1.png" />
     <Content Include="Images\sample.jpg" />
